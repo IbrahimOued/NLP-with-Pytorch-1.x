@@ -1,0 +1,1 @@
+# Personal nots while studing the book Hands-On NLP with PyTorch 1.x

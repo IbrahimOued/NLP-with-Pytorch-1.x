@@ -1,0 +1,8 @@
+/models/
+/ch05/model.pkl
+/ch05/sentiment labelled sentences.zip
+/ch06/.vector_cache/
+/ch06/.data/
+/ch06/cnn_model.pt
+/ch07/seq2seq.pt
+/ch07/.data/
