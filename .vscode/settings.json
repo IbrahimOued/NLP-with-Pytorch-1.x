@@ -1,3 +1,4 @@
 {
-    "dvc.dvcPath": "dvc"
+    "dvc.dvcPath": "dvc",
+    "python.analysis.typeCheckingMode": "basic"
 }
